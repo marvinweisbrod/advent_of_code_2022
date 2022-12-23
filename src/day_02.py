@@ -67,4 +67,5 @@ def main():
     print("Part 2: My score would be: " + str(my_total))
     
 
-main()
+if __name__ == "__main__":
+    main()

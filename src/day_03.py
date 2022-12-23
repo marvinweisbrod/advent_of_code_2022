@@ -44,4 +44,6 @@ def main():
 
     print("Part 2 Priority Sum: " + str(priority_sum))
 
-main()
+
+if __name__ == "__main__":
+    main()

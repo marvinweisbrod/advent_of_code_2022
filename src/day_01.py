@@ -38,4 +38,6 @@ def main():
 
     print("Calories of top 3: " + str(top_3_sum))
 
-main()
+
+if __name__ == "__main__":
+    main()
